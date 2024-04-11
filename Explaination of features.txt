@@ -1,0 +1,127 @@
+URL Features:-
+
+URL:-
+
+dot_url- Number of '.' in URL
+hyphe_url- Number of '-' in URL
+underline_url- Number of '_' in URL
+bar_url- Number of '/' in URL
+question_url- Number of '?' in URL
+equal_url- Number of '=' in URL
+arroba_url- Number of '@' in URL
+ampersand_url- Number of '&' in URL
+exclamation_url- Number of '!' in URL
+blank_url- Number of ' ' in URL
+til_url- Number of '~' in URL
+comma_url- Number of ',' in URL
+plus_url- Number of '+' in URL
+asterisk_url- Number of '*' in URL
+hashtag_url- Number of '#' in URL
+money_sign_url- Number of '$' in URL
+percentage_url- Number of '%' in URL
+count_tld_url- Number of Top-Level Domains(TLD) in URL
+len_url- Length of URL
+count_alpha_url- Number of alphabets in URL
+entropy_url= Entropy of URL
+
+
+HOST:-
+
+
+dot_host- Number of '.' in host
+hyphe_host- Number of '-' in host
+underline_host- Number of '_' in host
+bar_host- Number of '/' in host
+question_host- Number of '?' in host
+equal_host- Number of '=' in host
+arroba_host- Number of '@' in host
+ampersand_host- Number of '&' in host
+exclamation_host- Number of '!' in host
+blank_host- Number of ' ' in host
+til_host- Number of '~' in host
+comma_host- Number of ',' in host
+plus_host- Number of '+' in host
+asterisk_host- Number of '*' in host
+hashtag_host- Number of '#' in host
+money_sign_host- Number of '$' in host
+percentage_host- Number of '%' in host
+vowels_host- Number of vowels in host
+len_host- length of the host
+ip_exist- whether IP address is present or not
+server_client- Server client
+
+
+PATH:-
+
+
+dot_path- Number of '.' in path
+hyphe_path- Number of '-' in path
+underline_path- Number of '_' in path
+bar_path- Number of '/' in path
+question_path- Number of '?' in path
+equal_path- Number of '=' in path
+arroba_path- Number of '@' in path
+ampersand_path- Number of '&' in path
+exclamation_path- Number of '!' in path
+blank_path- Number of ' ' in path
+til_path- Number of '~' in path
+comma_path- Number of ',' in path
+plus_path- Number of '+' in path
+asterisk_path- Number of '*' in path
+hashtag_path- Number of '#' in path
+money_sign_path- Number of '$' in path
+percentage_path- Number of '%' in path
+len_path- length of the path
+
+
+FILE:-
+
+
+dot_file- Number of '.' in file
+hyphe_file- Number of '-' in file
+underline_file- Number of '_' in file
+bar_file- Number of '/' in file
+question_file- Number of '?' in file
+equal_file- Number of '=' in file
+arroba_file- Number of '@' in file
+ampersand_file- Number of '&' in file
+exclamation_file- Number of '!' in file
+blank_file- Number of ' ' in file
+til_file- Number of '~' in file
+comma_file- Number of ',' in file
+plus_file- Number of '+' in file
+asterisk_file- Number of '*' in file
+hashtag_file- Number of '#' in file
+money_sign_file- Number of '$' in file
+percentage_file- Number of '%' in file
+len_file- length of the file
+
+
+PARAMETER:-
+
+
+dot_params- Number of '.' in parameters
+hyphe_params- Number of '-' in parameters
+underline_params- Number of '_' in parameters
+bar_params- Number of '/' in parameters
+question_params- Number of '?' in parameters
+equal_params- Number of '=' in parameters
+arroba_params- Number of '@' in parameters
+ampersand_params- Number of '&' in parameters
+exclamation_params- Number of '!' in parameters
+blank_params- Number of ' ' in parameters
+til_params- Number of '~' in parameters
+comma_params- Number of ',' in parameters
+plus_params- Number of '+' in parameters
+asterisk_params- Number of '*' in parameters
+hashtag_params- Number of '#' in parameters
+money_sign_params- Number of '$' in parameters
+percentage_params- Number of '%' in parameters
+len_params- length of the parameters
+tld_params- top level domain in parameters				#
+number_params- Number of parameters or key-value pairs 
+email_exist- whether an email exists
+extension- whether there exists an extension				#
+
+
+
